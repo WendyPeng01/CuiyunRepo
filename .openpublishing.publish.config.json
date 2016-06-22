@@ -1,0 +1,17 @@
+{
+  "build_entry_point": "",
+  "git_repository_url_open_to_public_contributors": "",
+  "docsets_to_publish": [ 
+     { 
+        "docset_name": "Docset1", 
+        "build_output_subfolder": "Docs/Docset1", 
+        "locale": "en-us", 
+        "version": 0, 
+        "open_to_public_contributors": "false", 
+        "type_mapping": { 
+        "Conceptual": "Content"           
+        }         
+      }, 
+      ]
+      "notification_subscribers": ["v-cupeng@microsoft.com"],
+}
