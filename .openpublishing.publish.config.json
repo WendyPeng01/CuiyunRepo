@@ -11,7 +11,18 @@
         "type_mapping": { 
         "Conceptual": "Content"           
         }         
-      }, 
-      ]
+      },
+      {
+        "docset_name": "Docset2",
+        "build_output_subfolder": "Docs/Docset2",
+        "locale": "en-us",
+        "version": 0,
+        "open_to_public_contributors": "false",
+        "type_mapping": {
+          "Concepual": "Content"
+        }
+      }
+      ],
       "notification_subscribers": ["v-cupeng@microsoft.com"],
+      "branches_to_filter":["master"]
 }
